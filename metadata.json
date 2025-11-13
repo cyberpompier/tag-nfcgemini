@@ -1,0 +1,5 @@
+{
+  "name": "NFC Tag Reader",
+  "description": "A simple and beautiful web application to read data from NFC tags using your device's NFC capabilities. Tap a button, touch a tag, and see the contents instantly.",
+  "requestFramePermissions": []
+}
